@@ -115,7 +115,7 @@ graph TD
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/vocaleyes.git
+git clone https://github.com/atgdot/VocalEyes.git
 
 # Navigate to project directory
 cd vocaleyes
@@ -197,7 +197,7 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 ## 📞 Support & Contact
 
-- **Project Link**: [https://github.com/yourusername/vocaleyes](https://github.com/yourusername/vocaleyes)
+- **Project Link**: [https://github.com/atgdot/VocalEyes](https://github.com/atgdot/VocalEyes)
 - **Email**: support@vocaleyes.com
 - **Discord**: [Join our community](https://discord.gg/vocaleyes)
 
