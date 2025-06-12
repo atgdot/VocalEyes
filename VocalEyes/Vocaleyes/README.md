@@ -197,13 +197,13 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 ## 📞 Support & Contact
 
-- **Project Link**: [https://github.com/yourusername/vocaleyes](https://github.com/yourusername/vocaleyes)
-- **Email**: support@vocaleyes.com
-- **Discord**: [Join our community](https://discord.gg/vocaleyes)
+- **Project Link**: [https://github.com/yourusername/vocaleyes](https://github.com/atgdot/vocaleyes)
+- **Email**: ayushraj9868@gmail.com
+- Do contact If want to contribute to make the site better
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Free to use.
 
 ## 🙏 Acknowledgments
 
